@@ -1,0 +1,5 @@
+body {
+    width: 100%;
+    object-fit: contain;
+    background-image: url('../images/body-parts-bg.svg');
+}
