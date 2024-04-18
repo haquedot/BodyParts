@@ -3,3 +3,61 @@ body {
     object-fit: contain;
     background-image: url('../images/body-parts-bg.svg');
 }
+
+#genderDiv {
+    min-height: 100vh;
+}
+
+.custom-card {
+    max-width: 400px;
+
+}
+
+.custom-card img {
+    width: 100%;
+}
+
+.custom-card h3 {
+    background-color: #fff;
+    margin-top: -32px;
+}
+
+#boyBtn,
+#girlBtn {
+    cursor: pointer;
+}
+
+.home_btn,
+.resume_btn,
+.restart_btn {
+    width: 100px;
+    height: 100px;
+    font-weight: 900;
+    border-radius: 50%;
+}
+
+.next_btn {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: transparent;
+    border: none;
+    color: #fff;
+}
+
+.main_area,
+.body_parts {
+    height: 560px;
+    /* width: 560px; */
+}
+.main_area img{
+    height: 520px;
+    left: 50%;
+}
+
+.body_parts .card{
+    height: 272px;
+    width: 272px;
+
+    border-radius: 50%;
+}
