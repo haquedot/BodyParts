@@ -4,7 +4,7 @@ const girlBtn = document.getElementById('girlBtn');
 const genderDiv = document.getElementById('genderDiv');
 const nextBtn = document.getElementById('nextBtn');
 const gameArea = document.getElementById('gameArea');
-
+// boy
 function boy() {
     genderDiv.classList.add('d-none');
     bodyBg.style.backgroundImage = "url('../images/conversation-boy-bg.svg')";
