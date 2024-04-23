@@ -10,7 +10,7 @@ function boy() {
     bodyBg.style.backgroundImage = "url('../images/conversation-boy-bg.svg')";
     nextBtn.classList.remove('d-none');
 }
-
+//girl
 function girl() {
     genderDiv.classList.add('d-none');
     bodyBg.style.backgroundImage = "url('../images/conversation-boy-bg.svg')";
