@@ -17,6 +17,7 @@ function girl() {
     nextBtn.classList.remove('d-none');
 }
 
+//next function
 function next(){
     bodyBg.style.backgroundImage = "url('../images/classroom.svg')";
     nextBtn.classList.add('d-none');
