@@ -50,14 +50,14 @@ body {
     height: 560px;
     /* width: 560px; */
 }
-.main_area img{
+
+.main_area img {
     height: 520px;
     left: 50%;
 }
 
-.body_parts .card{
+.body_parts .card {
     height: 272px;
     width: 272px;
-
     border-radius: 50%;
 }
