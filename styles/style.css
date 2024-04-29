@@ -45,6 +45,14 @@ body {
     color: #fff;
 }
 
+.main_area {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 568px;
+    margin-left: auto;
+}
+
 .main_area,
 .body_parts {
     height: 560px;
@@ -53,7 +61,7 @@ body {
 
 .main_area img {
     height: 520px;
-    left: 50%;
+    /* left: 50%; */
 }
 
 .body_parts .card {
