@@ -1,5 +1,5 @@
 const bodyBg = document.getElementsByTagName('body')[0];
-//const boyBtn = document.getElementById('boyBtn');
+const boyBtn = document.getElementById('boyBtn');
 const girlBtn = document.getElementById('girlBtn');
 const genderDiv = document.getElementById('genderDiv');
 const nextBtn = document.getElementById('nextBtn');
